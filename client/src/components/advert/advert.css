@@ -1,0 +1,19 @@
+.advert {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.advertCont {
+  border: 1px solid white;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  gap: 80px;
+}
+
+.adimg {
+  width: 150px;
+  background-color: inherit;
+  height: 50px;
+}

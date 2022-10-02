@@ -1,0 +1,44 @@
+.foot {
+  margin-top: 100px;
+}
+.footer {
+  display: flex;
+  gap: 100px;
+  margin-bottom: 50px;
+}
+
+.footr {
+  display: flex;
+  gap: 150px;
+}
+
+.footb {
+  display: flex;
+  align-items: center;
+  gap: 180px;
+  margin-bottom: 50px;
+}
+
+.footIcons {
+  margin-right: 10px;
+  font-size: 32px;
+  background-color: white;
+  color: #ff1493;
+  padding: 10px;
+  border-radius: 50%;
+  align-items: center;
+  cursor: pointer;
+}
+
+h1 {
+  cursor: pointer;
+}
+
+.ph {
+  font-weight: bold;
+}
+
+.ppf {
+  cursor: pointer;
+  font-weight: 100;
+}

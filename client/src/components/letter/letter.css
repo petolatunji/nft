@@ -1,0 +1,46 @@
+.letter {
+  border: 1px solid white;
+  margin-bottom: 50px;
+  background-color: #c8a2c8;
+  margin-top: 100px;
+}
+
+.lette {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+input {
+  padding: 15px;
+  width: 500px;
+  border: none;
+}
+
+.let {
+  position: relative;
+}
+
+.letbtn {
+  position: absolute;
+  right: 15px;
+  bottom: 5px;
+  cursor: pointer;
+  background-color: #ff1493;
+  padding: 10px;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+
+.letp,
+.lett {
+  margin: 0px;
+  padding: 10px;
+}
+
+.letp {
+  margin-bottom: 5px;
+}

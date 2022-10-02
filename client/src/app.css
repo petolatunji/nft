@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  justify-content: center;
+  background-color: purple;
+}
+
+.container {
+  max-width: 1024px;
+  width: 100%;
+}

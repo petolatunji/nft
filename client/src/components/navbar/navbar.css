@@ -1,0 +1,58 @@
+.navCont {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 30px;
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.navItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navinput {
+  position: relative;
+}
+.navSearch {
+  padding: 8px;
+  width: 200px;
+  border-radius: 20px;
+  background-color: inherit;
+  border: 1px solid white;
+  color: white;
+  border: none;
+}
+
+.navIcon {
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  color: white;
+}
+
+.navlists {
+  display: flex;
+  gap: 40px;
+}
+.navlist {
+  color: white;
+  font-size: 18px;
+  cursor: pointer;
+  list-style: none;
+}
+
+.navbtn {
+  margin-left: 50px;
+  padding: 10px;
+  border: none;
+  color: purple;
+  font-weight: bold;
+  background-color: white;
+  cursor: pointer;
+}

@@ -1,0 +1,120 @@
+.header {
+  height: 50vh;
+  max-height: 1100px;
+  position: relative;
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+.left {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  top: 0;
+  padding: 50px;
+}
+
+.slidercont {
+  display: flex;
+  gap: 200px;
+  justify-content: center;
+}
+.lcont {
+  flex: 1;
+}
+
+.htitle {
+  color: white;
+}
+p {
+  color: white;
+}
+
+.bp {
+  display: flex;
+  position: relative;
+  align-items: center;
+  text-align: center;
+}
+
+.hbtn {
+  background-color: white;
+  color: purple;
+  padding: 10px;
+  font-weight: bold;
+  border: none;
+  width: 120px;
+  margin-right: 20px;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.btnicon {
+  font-size: 10px;
+  position: absolute;
+  left: 90px;
+  bottom: 1px;
+  top: 12px;
+  color: inherit;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.play {
+  display: flex;
+  align-items: center;
+}
+
+.iconplay {
+  margin-right: 10px;
+  color: red;
+  background-color: white;
+  border-radius: 50%;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.purchase {
+  display: flex;
+  padding: 5px;
+  border: 1px solid white;
+  gap: 30px;
+  align-items: center;
+  height: 90px;
+}
+
+.ppp {
+  align-items: center;
+  font-weight: bold;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+}
+.pppp {
+  padding-right: 5px;
+}
+
+.vl {
+  border-left: 2px solid white;
+  height: 80px;
+  align-items: center;
+}
+
+.rcont {
+  flex: 2;
+}
+
+.himage {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  border-radius: 0px 50px;
+  margin-right: 250px;
+}
+
+.bp {
+  margin-top: 5px;
+  margin-bottom: 50px;
+}
